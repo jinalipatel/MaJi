@@ -5,7 +5,6 @@
 <h1>M & J</h1>
 <p>My first project</p>
 <p>Mahis</p>
-<p>Jinalis</p>
-<p>Images</p>
+
 </body>
 </html
