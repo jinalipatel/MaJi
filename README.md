@@ -6,6 +6,6 @@
 <p>My first project</p>
 <p>Mahis</p>
 <p>Jinalis</p>
-
+<p>Images</p>
 </body>
 </html
